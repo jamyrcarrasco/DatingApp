@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "j:\\PROYECTOS\\DatingApp.APi\\DatingApp.API.csproj": {}
+    "J:\\PROYECTOS\\DATING APP\\DatingApp.APi\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "j:\\PROYECTOS\\DatingApp.APi\\DatingApp.API.csproj": {
+    "J:\\PROYECTOS\\DATING APP\\DatingApp.APi\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "j:\\PROYECTOS\\DatingApp.APi\\DatingApp.API.csproj",
+        "projectUniqueName": "J:\\PROYECTOS\\DATING APP\\DatingApp.APi\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "j:\\PROYECTOS\\DatingApp.APi\\DatingApp.API.csproj",
+        "projectPath": "J:\\PROYECTOS\\DATING APP\\DatingApp.APi\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\jamyr\\.nuget\\packages\\",
-        "outputPath": "j:\\PROYECTOS\\DatingApp.APi\\obj\\",
+        "outputPath": "J:\\PROYECTOS\\DATING APP\\DatingApp.APi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -51,10 +51,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
-              "target": "Package",
-              "version": "[2.2.6, )"
             },
             "Microsoft.NETCore.App": {
               "target": "Package",
